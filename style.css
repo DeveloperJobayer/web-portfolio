@@ -61,6 +61,9 @@ p{
     background-repeat: no-repeat;
     background-position: left;
 }
+.exp{
+    margin-left: 50px;
+}
 #full-stack{
     border-left: 7px solid;
     border-image: linear-gradient(180deg, lightSalmon, tomato);
